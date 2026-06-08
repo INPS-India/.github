@@ -5,7 +5,6 @@
 **TC India | Official Indian Chapter of [IAPS](https://iaps.info)**
 
 [![Email](https://img.shields.io/badge/Email-tc--india@iaps.info-D14836?style=flat-square&logo=gmail)](mailto:tc-india@iaps.info)
-[![Discord](https://img.shields.io/badge/Discord-Join_Us-5865F2?style=flat-square&logo=discord)](https://discord.gg/qhaTJWXChS)
 
 </div>
 
