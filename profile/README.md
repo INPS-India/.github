@@ -2,7 +2,7 @@
 
 # 🇮🇳 INPS — Indian Network of Physics Students
 
-**TC India | Official Indian Chapter of [IAPS](https://iaps.info)**
+**TC India | Official Indian National body under [IAPS](https://iaps.info)**
 
 [![Email](https://img.shields.io/badge/Email-tc--india@iaps.info-D14836?style=flat-square&logo=gmail)](mailto:tc-india@iaps.info)
 
@@ -12,7 +12,7 @@
 
 ## About Us
 
-**INPS (Indian Network of Physics Students)**, formerly known as AIPS (Association of Indian Physics Students), is the **official Indian chapter of [IAPS](https://iaps.info) (International Association of Physics Students)**. We are a non-profit, student-run organisation made up of people who love physics and believe in giving back to the science community.
+**INPS (Indian Network of Physics Students)**, formerly known as AIPS (Association of Indian Physics Students), is the **official Indian national body under [IAPS](https://iaps.info) (International Association of Physics Students)**. We are a non-profit, student-run organisation made up of people who love physics and believe in giving back to the science community.
 
 Our mission is to promote physics education across India, raise awareness of research opportunities, foster student collaboration, and connect Indian students with the international IAPS community — providing opportunities to explore interests and avenues for academic and professional growth.
 
